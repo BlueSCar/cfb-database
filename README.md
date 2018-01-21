@@ -65,7 +65,7 @@ This is a non-comprehensive list of data currently included.  New types of data 
 - venue data
 
 # diagram
-![alt text](https://github.com/BlueSCar/cfb-database/SchemaDiagram.png "Schema")
+![Schema Diagram](https://github.com/BlueSCar/cfb-database/blob/master/SchemaDiagram.png "Schema")
 
 # future
 This is a semi-prioritized non-comprehensive list of planned features.
