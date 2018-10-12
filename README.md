@@ -72,11 +72,11 @@ This is a semi-prioritized non-comprehensive list of planned features.
 
 - Recruiting data (247 Composite)
 - Player-Play associations
-- Conference and division data
+- ~~Conference and division data~~
 - Betting lines
 - Weather
-- Accessibility (i.e. public hosting or a public API)
-- Real-time updates
+- ~~Accessibility (i.e. public hosting or a public API)~~
+- ~~Real-time updates~~
 
 # license
 
